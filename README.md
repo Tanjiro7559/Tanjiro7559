@@ -1,4 +1,5 @@
-![MasterHead](https://1.bp.blogspot.com/7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/Tanjiro7559))
+
 <h1 align="center">Hi 👋, I'm Anand Chavan</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -19,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/anand-chavan-アナンド-354548208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anand-chavan-%E3%82%A2%E3%83%8A%E3%83%B3%E3%83%89-%E3%83%81%E3%83%A3%E3%83%90%E3%83%B3-354548208/" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/anand-chavan-アナンド-354548208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/anand-chavan-アナンド-354548208" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/anandchavan17/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/anandchavan17/" height="30" width="40" /></a>
 </p>
 
